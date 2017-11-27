@@ -1,10 +1,10 @@
 <?php
  $servername = "localhost";
-//  $username = "sani";
+
  $username="root";
-//  $password = "sani@oxe12";
+
  $password="";
-//  $dbname="sani";
+
  $dbname="oxedb";
  
  // Create connection
